@@ -1,4 +1,5 @@
 ## Hi there 👋
+![39ecd18dfe039f474138051777c6f0b9](https://github.com/user-attachments/assets/e7c4cea3-da9d-4c23-b120-2bbe8c4f2e71)
 
 <!--
 **brunorozov-cpu/brunorozov-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
